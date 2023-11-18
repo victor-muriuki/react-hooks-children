@@ -13,7 +13,7 @@ function App() {
         <div>This is an example!</div>
         <div>This is an example!</div>
       </Container>
-      <Container header="Example header" textPosition="center">
+      <Container header="Example header2" textPosition="center">
         <img
           alt="turtle"
           src="https://pbs.twimg.com/profile_images/3022993403/fdae67d800527328cee7a222f048dbbd.jpeg"
